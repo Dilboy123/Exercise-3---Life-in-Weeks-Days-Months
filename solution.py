@@ -1,9 +1,9 @@
 #Solution in Python
 
-age = input("What is your current age?")
+age = input("Tell me What is your current age?")
 new_age = int(age)
 remaining_years = 90 - new_age
-days_remaining = remaining_years * 365
+days_remaining = remaining_years * 365 
 weeks_remaining = remaining_years * 52
 month_remaining = remaining_years * 12
 
